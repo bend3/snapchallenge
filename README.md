@@ -1,0 +1,2 @@
+# snapchallenge
+Soultions for SnapChallange
